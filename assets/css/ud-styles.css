@@ -15,7 +15,7 @@
   --font: "Inter", sans-serif;
   --body-color: #637381;
   --heading-color: #212b36;
-  --primary-color: #3056d3;
+  --primary-color: #052051c6;
   --white: #ffffff;
 }
 
@@ -899,7 +899,7 @@ p {
 
 .ud-single-pricing.active {
   background: -webkit-gradient(linear, left top, left bottom, from(#3056d3), to(#179bee));
-  background: linear-gradient(180deg, #3056d3 0%, #179bee 100%);
+  background: linear-gradient(180deg, #000f41 0%, #6c92a9 100%);
   border: none;
   padding: 55px 30px;
 }
